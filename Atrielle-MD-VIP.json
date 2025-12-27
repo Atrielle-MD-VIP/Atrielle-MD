@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "NABIL",
+      "nomor_user": "6285885773612",
+      "password": "ownerkey",
+      "is_main_owner": true,
+      "nomor_bots": [
+        "6285885773612",
+        "306997729946",
+        "84948617036",
+        "6285702526159",
+        "6287746084500",
+        "6289677157146"
+      ]
+    },
+    {
+      "id": 2,
+      "nama": "Ryu",
+      "nomor_user": "6289687359668",
+      "password": "memekl",
+      "nomor_bots": [
+        "6289687359668",
+        "62895623055666"
+      ]
+    },
+    {
+      "id": 3,
+      "nama": "Raa",
+      "nomor_user": "6281286096883",
+      "password": "raa",
+      "nomor_bots": [
+        "6281286096883"
+      ]
+    },
+    {
+      "id": 4,
+      "nama": "Ashley",
+      "nomor_user": "6283181451006",
+      "password": "Ashleyhero12",
+      "nomor_bots": [
+        "6283181451006"
+      ]
+    },
+    {
+      "id": 5,
+      "nama": "ANDI",
+      "nomor_user": "6285150890370",
+      "password": "andi",
+      "nomor_bots": [
+        "6285150890370",
+        "62895402431759"
+      ]
+    },
+    {
+      "id": 6,
+      "nama": "KANNA",
+      "nomor_user": "6282264988503",
+      "password": "kanna",
+      "nomor_bots": [
+        "6282264988503"
+      ]
+    },
+    {
+      "id": 7,
+      "nama": "angga",
+      "nomor_user": "6285923467853",
+      "password": "fanii",
+      "nomor_bots": [
+        "6285923467853"
+      ]
+    },
+    {
+      "id": 8,
+      "nama": "ainii",
+      "nomor_user": "6281389132425",
+      "password": "nansyiee",
+      "nomor_bots": [
+        "6281389132425",
+        "6287854347824"
+      ]
+    },
+    {
+      "id": 9,
+      "nama": "all kece",
+      "nomor_user": "62881011457396",
+      "password": "buljemb",
+      "nomor_bots": [
+        "62881011457396",
+        "6282379429715"
+      ]
+    },
+    {
+      "id": 10,
+      "nama": "pung",
+      "nomor_user": "6285198959920",
+      "password": "1",
+      "nomor_bots": [
+        "6285198959920"
+      ]
+    },
+    {
+      "id": 11,
+      "nama": "kyyzoo",
+      "nomor_user": "15797090801",
+      "password": "kyyzoo001",
+      "nomor_bots": [
+        "15797090801"
+      ]
+    },
+    {
+      "id": 12,
+      "nama": "Junn",
+      "nomor_user": "6289654366638",
+      "password": "Jun",
+      "nomor_bots": [
+        "6289654366638",
+        "628976661827"
+      ]
+    },
+    {
+      "id": 13,
+      "nama": "kagami",
+      "nomor_user": "6282326915936",
+      "password": "starbos",
+      "nomor_bots": [
+        "6282326915936",
+        "6287815448217"
+      ]
+    }
+  ],
+  "limits": {
+    "default": 3,
+    "overrides": {}
+  },
+  "legacy": []
+}
